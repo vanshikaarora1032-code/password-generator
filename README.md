@@ -28,3 +28,4 @@ This project helps users generate strong random passwords and instantly check th
 - **JavaScript** – Password generation & strength validation logic  
 
 ---
+![Password Generator Preview](Screenshot_28-12-2025_171350_127.0.0.1.jpeg)
